@@ -32,8 +32,9 @@
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=marcornett" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=marcornett" />
+![Marcel's github stats](https://github-readme-stats.vercel.app/api?username=marcornett&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcornett&layout=compact)](https://github.com/marcornett/github-readme-stats)
 
 [kenzie]: https://www.kenzie.academy/
 [twitter]: https://twitter.com/marcornett
