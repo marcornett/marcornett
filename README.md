@@ -35,7 +35,7 @@
 <img align="left" alt="marcornett's Github Stats" src="https://github-readme-stats.vercel.app/api?username=marcornett&show_icons=true&hide_border=true" />
 
 <a href="https://github.com/marcornett">
-  <img align="left" alt="marcornett's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcornett&layout=compact" />
+  <img align="right" alt="marcornett's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcornett&layout=compact" />
 </a>
 
 [kenzie]: https://www.kenzie.academy/
