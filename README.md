@@ -32,12 +32,8 @@
 
 ---
 
-<a href="https://github.com/marcornett/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=marcornett&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/marcornett/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=marcornett&repo=convoychat" />
-</a>
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=marcornett" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=marcornett" />
 
 [kenzie]: https://www.kenzie.academy/
 [twitter]: https://twitter.com/marcornett
