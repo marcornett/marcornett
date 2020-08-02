@@ -16,6 +16,8 @@
 
 ### Languages and Tools:
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcornett&layout=compact)](https://github.com/marcornett/github-readme-stats)
+
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="html5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
 [<img align="left" alt="css3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
@@ -33,8 +35,6 @@
 ---
 
 ![Marcel's github stats](https://github-readme-stats.vercel.app/api?username=marcornett&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcornett&layout=compact)](https://github.com/marcornett/github-readme-stats)
 
 [kenzie]: https://www.kenzie.academy/
 [twitter]: https://twitter.com/marcornett
