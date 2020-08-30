@@ -1,6 +1,6 @@
 ### Hi there, I'm Marcel
 
-## I'm a Developer, Glassblower, and Photographer!
+## I'm a Software Developer, Glassblower, and Photographer!
 
 - 👨‍🎓 I'm currently a student at [Kenzie Academy][kenzie]!
 - 🐍 I'm currently learning Python
