@@ -3,7 +3,7 @@
 ## I'm a Software Developer, Glassblower, and Photographer!
 
 - 🎓  I'm currently a student at [Kenzie Academy][kenzie]!
-- 👨‍ Experience with React, Node.js, PostgreSQL, MongoDB, HTML/CSS, Git
+- 👨‍ Certified Front End Developer: React, Node.js, Redux, PostgreSQL, MongoDB, HTML/CSS, Git
 - 🐍  I'm currently learning Python
 - 👯‍ I'm looking to collaborate with other content creators
 - 🥅  2020 Goals: Contribute more to Open Source projects
