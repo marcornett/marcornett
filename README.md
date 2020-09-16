@@ -2,11 +2,12 @@
 
 ## I'm a Software Developer, Glassblower, and Photographer!
 
-- 👨‍🎓 I'm currently a student at [Kenzie Academy][kenzie]!
-- 🐍 I'm currently learning Python
-- 👯‍♂ I'm looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love Glassblowing and Photography
+- 🎓  I'm currently a student at [Kenzie Academy][kenzie]!
+- 👨‍ Experience with React, Node.js, PostgreSQL, MongoDB, HTML/CSS, Git
+- 🐍  I'm currently learning Python
+- 👯‍ I'm looking to collaborate with other content creators
+- 🥅  2020 Goals: Contribute more to Open Source projects
+- ⚡   Fun fact: I love Glassblowing and Photography
 
 ### Connect with me:
 
